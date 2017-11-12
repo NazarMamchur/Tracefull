@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/0a85d61d122dd73cd1cf3833b8ca064cc2a9016c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_ddfde22304ffbdb746d5a95dea71182b30bce6db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/14e0f302eb3efe768c80c726f2ac4d5ea67a6210/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_1dad73273cd9a993591e2281a488194cae0fdc5a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/8ec3370497fab8796bbe23fb700b1259b3a8c3aa/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c6706cc7c8c3093560edd55d322218afe7798aa9">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_04244674ba462e56607918438b07db2b820e8491.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/d0b2a523f770aac84785d8c1638c50b37689f4d0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_89cfeeec64ed550f35619f3db73f94ebe0966b77.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/3f9c175d98c096efa03d46e053d363294cf20df8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2b12b18c5518021cc71577c83d1290f8ddaa3c98">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_1c67cad8b216d9d4f192b7d8115750fc44d76779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/14622433d73c720d5f49b87247ac7b3a0152c49b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_09b43703e10d45b129bcd1b8e2cb16ab3b49fa1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/af8d3d1d18b46c3f31534ccb987fa237cebc72a8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_114594fc3a1b02718a529f9b91d02eabe18ef2e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/3e4b0c84f76b0554f336ccffd317d8849559fecb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f47f4d5bdfd7d7bf330945b8a7ccce4ab437a710">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_9482796f203212b2009f740e7d950a2059f93543.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/3d3b5559b011b18f636310ca058f24c555ba586d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_ed3285a4798798389733d0e8cd516f51ecc2fe9c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/159c116f5de70ddba9ffd0421ada479dbb87771e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_b43ea913bbfffd4fd9a99894fe2fe82c39714cea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/875b44316aff5a514c2359a61daa966f443d8c32/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_240a9f1a396370ecc32e74fbba7bf8639e608e0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/551d4ea79674f36be0d331db8cf250cd6fe7cacc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a5d52089bf4d31537232bb6bcb70cee817d8a374">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_8f9b63eaa67e11f39aceac242e3dff6303979381.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/b569c5c2762f3e7a56eb65e714a075c2a8c0ae6c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_55717c711f585ec95422929cea36111c9c1d5f2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/d57e151aa67c1504f8e42ec6575613e5a7d70bde/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_c80b76f2950a806720fab753f436fdcc834f0428.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/common-1.0.0_1d60fa6c43c5a883e43946e1b2b319617435ac7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/bc9707cf9680c7e0b65677e083bc04541a484571/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="057fb316bed8467398333f30926c2d5506e275b2">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_905b2415313e42e71639dd576cf55ad4a952f846.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/293f0340b5f23318d3f9c915bcbe94c17a0ac318/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a37fc31c5ceeaa4532a37358add1b189d8db4af1">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_5a4aca710d3141f80f2aede54eeac0c8b6d4820a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/b144fa20d3d1bb75b71dd6bba6140d51a183bb77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c8bf878c09bf0df6ae76eb6c2df38c6a186b38b7">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_9fc87241811cbc4a0b54f7c62f7bbe84460cba9f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/82014c3cbf5a4c3157d8205d7c528fede868d12c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eea424e61a0c85b93a0e477565314a58136abaea">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_c6dc1811e795793c85074a96ba50e07eecbc6517.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/7a4488c5b709867a1803a4aa759467fbacb701d4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3ac08c35419ab7cf9146969de471768dbe502f0f">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_6aea6f5289b6dc22041c972f665822af3da43883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/051de6c4fd18e971a829a1b6f1e0cbe83e1ff9ea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c175c3009577fad8b433703f5d7ac2dc21d3871f">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_857f3a6209f8759b874084b8c9c897b491e64418.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/1b2e55ce5af8603b12d9f133915539ee3176f278/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_e415aebe9150898a07516e105de51cbdaead5503.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/8203ccf848de161ef26b1a55368d3692328abdf2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b12397bc9f342b29d9e9108978828f99a6da579">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_7364884938e8e9103bf5778cdd9098379d587dc8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.nostra13.universalimageloader/universal-image-loader/1.9.5/442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375/universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/universal-image-loader-1.9.5_ff8f4a570e7e10f1b6b780f9ee3a3a962d9c6e7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/34087ee265c9773a01a7e8da39f307bf50cf599c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_a701de4ff250e8af388172547d6614db56b8fbc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/3800b6ed7534afa0a9aa48c0f07acef8c10939b8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_59f3847d27cb9bb3f0bbad3a1bc21d323f2ec3f9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/f1de9a52f2574d7f186170854f2e5e43b0cd5e83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5594a368622908d89c47d9a391aa2724fe046c35">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_1f8eb4b6c12d80747b7bfa59341ec33a4dd90a09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/3c051670ce46b38365468cfcad356fede0ea0246/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c72b1515efbd8ad652e2d63582c8234a979b1e53">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_4569f7226d7b8b0cbad5c93c072dfd0bf2bd36b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/9a8ecffc55cf6918d17111f4c99c1f7488ddf4c9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_946a049db83320175797dff2db145366028fa647.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/fa27ab6b191e8491cde2f4588fcf124bf1acbce5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="41f47bbcd281fdb1e42e220220ab3bfa1da591e0">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_d6c397e556fe0b46d43e9a5d83d8ba9d2e91b7cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/ee8cd5a90411fde96218512e527d47f6ce6db4d5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c2f1b3f82c027e98f56bb0154de0acbcce42e6d">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_09014fb04a4013382df78f663fdd2d6035bb92db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/1897f39be3e62c8da0a4133916869f0f5e71d48c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_517bf5ef6cd81100a0fffada0611394c1197e79b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/393e5ae6c4f7fea69d83db6ce82cf4d8c13e668d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_30945c09f84fcc2768dc4e35aa68b87b48376ea2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/2c2cb40d305b4770e2b09d4d6863a9f37e8b01de/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c379c235d7983201bb83edfc3c60bb0dafb5805">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_e9d68ac254180017f54621ddd8320fdeed1ad7ad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/290dfcd8d657d0ab86e15ba9bf6a0304219850a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bfba7cf662f7e3e2cfeb92226c6b84c08e590225">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_2697afb3f846bc25f937eb6096714162ec2f7b1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/c0541fc427a45efb4d29026e7990192078533349/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b685077cdb08cf7ae8b61afd1fe910e47d91b9a">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_079b31174a01aa9e69bcf35bedf869c4cd7787df.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/676f9f4c0bbf2c06592891dd2e4c8bd91413b0ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_8e06793c8f8d0d552af12549d3b83a8a83f3a20a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/8bac73a3fe4733f569e4f8998b01c34e0202c5a5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="377c5f26ebf67f3fa6ef2f663a58cac7ce647dde">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_e9fc54faaa05368efa801dbbe058f6cbfd2ea485.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/39cf422472215af4bfc9739e7dbec1f5ce11bae8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_f2244181f8992c607bc0e349e0e48126af0e84aa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/8e78336531ceca81f6b510b1bbef92967d05ad5e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="576570f46ff6ccc69a984af9e55ddd58d9549270">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_7c99b37c6593307fe0a70e49674fd42406423ab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/b4d89eeeb98a5ace700af0acac0b278dfbf9fc1e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc3036436defd3070337b7191c50a136ebca7f8f">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_a4093a2863890f4951ac0cde8aa13e7b365af685.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/b47b516a3a4323ad0f9c9f050d4c72bf54cbc4c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="02b91f8efa91dcdf5c555ee24b7f006f02cd0f8b">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_c5e94c358d2abbcd8dcd6a46faf144e6d9f3a375.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/a820ae6966675a92dee60f1447e465d99258248b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="63b03eaa1aa9b9431c7638841175f9842dcbf274">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_d12bd8feab8602edab56c91de1f0ff3d26cf1d2b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/442895d02e47e8c180faf6b28350515ad44c958b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a25b0b5aec89681b95d32780ad7904c1e1e4c679">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_9bbf069fc8d31897978b7f23887d918490a3fd72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/39133a495e09b025f4d8c48d9e1629924860d0c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="56d68d1174b9c1e368017a850b62b12429f39757">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_c41aeeefa51e179244e14e8c0c3145c34c4770d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/fd5f98c37039398e87dcfc81d0bc1eefe8823e47/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dae0d68af4c87df40eca67069861e53b7cefaaa0">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_704d92678d28c181f9e244a1dbdaa03f5525e345.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/21c98ee64bc205a108482e7263f13fbabdec6df8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_523b12337bf0670562afad59f47191f2f29e5a10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_2f045491713a1b2994a370fc76e7a30dc6fae3c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/4a3d017fa68a2f6698ae6b38c56393eab3e621f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_6f6d59b4979e34039aed6de88e1d222f7b56594c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/213d8cc6f3d06d023883cb321d0b36d64eba00d2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ffd0ddf5e57b4d60c4a3fbcd38fa20349a0cebd1">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_b63c05ccd7d0747510c095a43d4b16121df5307c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/2505cef727fa5ee8d7408c6bb2cf17f8387485c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_98d5ff8cb2a88f8ccf4054ad0dbcbbf8ba034bb3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/5e0e295a46ee3e982e8eeaef784e22fb69cf2298/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58b12bdb21a84f22e0dc3b047aeceb0a546b1b44">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_78ff954a019610a651a7786e35b46c6f4cc4a7a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/common-1.0.0_4b397a45c656b86e5a700dba8215aac953cf3f1c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/5b3fe8ac6a019787862f46ea146b7242cc636cf1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_050a390cfaa7f790ea06991fb420902424dfe591.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/65d1b1f3ee251925bda63078c390331251de7a5d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_97d60ed78770c698d7d6ea4ca6cf1fc83c31b1d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/1a35b4199b7da93b7b85b42db24bb1194cbedfc5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_a38ee6f2dd55d2e211df65acf80e7b6ae0127792.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/4bee11143d4af75807164b79eb249ba357229b7e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="76ea35b41786082af23db898ca9e0fc07cc71fb9">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_d2e703b742379bbbd7f591b95fd55a734df28b76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/469d65b40aa766b8810e500dc36ad790ccfe7eec/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_a3769f5a5e59523877fdc121c935ff59136b44cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/05820d3333d0c096141e32b908eea675221b2ba2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_f0ebdd3728d4e9aae913cce2cda52b2af95618fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/ba1f15e63d4a1b3664b8d5336219af3ef3ed6b1d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7c24e2e9773fb498e390ce973db382c3ddcf748e">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_c96daffb57b186cf01086904fe7153ae3275bd3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/9630372e7b281035a535efd72a82d0493e8f2351/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c6aa915c08cfd82780c10d4b957018bf819a48e2">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_26a50122c68114473ef966eb3a04473f578a217f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/af951c37c143357c4b07a02a87f3639c64a90e4e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b12cd9c87c3dfb012a911b6e38d2444ed0a65e1f">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_537a31fa9063dafe5855196a85ab303b0fbb9e1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/ba2b889db84dba7cc9c743944e2753c24f898721/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_379c0afe314545fedba7da3e1827365ab37bd823.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/8b3c1abbca6f042f7549f7d770efe0a35487b0b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8544f739799dd15db63927073a21312864ab0bfd">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_0b6832f4d6a1ee46890dafbfa61c334990d3bcf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/c3051bb43f656d5173126c497e190031acafdae2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b4d6fbbb48b42dd03fd9c5a09b3b7a53266df6ed">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_4419600b391248190822f3522e535e693a883399.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/b69b8466b43c710d69451cde308d4da43ebe164e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_9b55bf15dc8aaa01157ad495a83b5970509a877c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/18d1c5e5ccedfcd6e383d0caef28c683986eabab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f15e20dd7bcde7c688cfda44d0c8320a5c1c24b8">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_b0463353f294b2d8f5c32349506bfa9f02929c02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/c86251347637dd2f1e069fb8a362708dd40a2ef3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c1b91bc7e480ab100d0397b16c93732e26fd10eb">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_6ff276ea421f98a86a09b84e1adcc7176ce9a770.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/a9bb966c9f2e21d033271180e46ecbec74d254c8/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_da815cfb86f74fa7bc162c77c3a4125c093067d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/15b202d2a2bdec37dc1f026ea9b6d3ab35e72639/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_f0e6a72e2578e0d9465a6864a292bbf69eb22c69.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/Administrator/.android/build-cache/886bfef81e87537847752e694d0578ec57fc92fb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6b3430725095bd46b785e97bd34240826c27b4db">
+        <dex dex="/Users/Administrator/Desktop/Tutotial/app/build/intermediates/pre-dexed/debug/classes_ce0b655a814a8a04c22f55796d89728663894d0e.jar" />
+    </item>
+
+</items>
